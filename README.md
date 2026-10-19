@@ -40,6 +40,7 @@ The following guidelines are general recommendations:
     Stage 1.5: Intake modifications and FMIC, where applicable
     Stage 2: Downpipes and intake modifications
     Stage 3: Full bolt-ons and upgraded inlets, where applicable
+    Stage 3.5: TD03-H turbos, which are modified stock housings with modified cartridge. Ex: Vargas S1, Pure S1, Aliexpress special 15T, etc.
     Hybrid Turbo: Full bolt-ons with hybrid turbochargers; generally considered Stage 4
     Single Turbo: Full bolt-ons with a single-turbo conversion
 
