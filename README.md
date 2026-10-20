@@ -13,6 +13,7 @@ Current and planned engine support includes:
     N54
     N55 E- and F-Series
     B58
+    S55
     S58
     N63
     S63
